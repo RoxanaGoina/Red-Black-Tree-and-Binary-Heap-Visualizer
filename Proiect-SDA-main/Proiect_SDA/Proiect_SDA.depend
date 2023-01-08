@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1673126460 source:c:\users\user\desktop\facultate\anul 2\semestrul 1\structuri de date avansate\multimi disjuncte\proiect_sda\main.cpp
+	<cstdlib>
+	"RBNode.h"
+	"IODialog.h"
+	"Heap.h"
+
+1673092797 c:\users\user\desktop\facultate\anul 2\semestrul 1\structuri de date avansate\multimi disjuncte\proiect_sda\rbnode.h
+	<string.h>
+	<string>
+	<iostream>
+	<sstream>
+
+1673126771 c:\users\user\desktop\facultate\anul 2\semestrul 1\structuri de date avansate\multimi disjuncte\proiect_sda\iodialog.h
+	<iostream>
+	<sstream>
+	<list>
+	"Heap.h"
+
+1673127357 c:\users\user\desktop\facultate\anul 2\semestrul 1\structuri de date avansate\multimi disjuncte\proiect_sda\heap.h
+	<iostream>
+	<cmath>
+	<climits>
+	<list>
+	<iterator>
+
+1673176420 source:c:\users\user\desktop\proiect-sda-main\proiect_sda\main.cpp
+	<cstdlib>
+	"RBNode.h"
+	"IODialog.h"
+	"Heap.h"
+
+1673129364 c:\users\user\desktop\proiect-sda-main\proiect_sda\rbnode.h
+	<string.h>
+	<string>
+	<iostream>
+	<sstream>
+
+1673129364 c:\users\user\desktop\proiect-sda-main\proiect_sda\iodialog.h
+	<iostream>
+	<sstream>
+	<list>
+	"Heap.h"
+
+1673175955 c:\users\user\desktop\proiect-sda-main\proiect_sda\heap.h
+	<iostream>
+	<cmath>
+	<climits>
+	<list>
+	<iterator>
+	<vector>
+

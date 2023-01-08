@@ -1,0 +1,17 @@
+#ifndef HEAP_
+#define HEAP_
+
+
+class Heap
+{
+    public:
+        Heap();
+        virtual ~Heap();
+        Heap(const Heap& other);
+
+    protected:
+
+    private:
+};
+
+#endif // HEAP_
